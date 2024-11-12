@@ -1,4 +1,0 @@
-../Core/Inc/Timer_milliseconds.h:15:6:bool timerCompleted(uint32_t*, uint32_t*)	2
-../Core/Src/cppMain.cpp:36:6:void LOGInit(UART_HandleTypeDef*)	1
-../Core/Src/cppMain.cpp:41:6:void LOG(char*)	1
-../Core/Src/cppMain.cpp:52:6:void cppMain()	14
